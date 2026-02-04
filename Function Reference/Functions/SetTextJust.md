@@ -6,22 +6,12 @@ Procedure SetTextJust sets the text justification of the referenced text object.
 
 [[Image:textlocus.gif| left]]
 
-{| class="wikitable_c"
-|+ Table - Text Justification
-! Justification !! Constant
-|- 
-| Left 
-| style="text-align:center"| 1
-|- 
-| Center
-| style="text-align:center"| 2
-|-
-| Right
-| style="text-align:center"| 3
-|-
-| Justify
-| style="text-align:center"| 4
-|}
+| Justification | Constant|
+|---------------|---------|
+| Left          | 1       |
+| Center        | 2       |
+| Right         | 3       |
+| Justify       | 4       |
 
 ```pascal
 PROCEDURE SetTextJust(
