@@ -149,25 +149,13 @@ list := BuildResourceList(resID, -pathID, '', cnt); { current document + user fo
 </code>
 
 [[User:Ptr| ptr]], 2019.09.16]:
-{| class="wikitable_c"
-|+ Undocumented list id's
-! Resource type !! List ID
-|-
-| Line Types
-| 96
-|-
-| Roof Styles
-| 102
-|-
-| Slab Styles
-| 107
-|-
-| Tiles
-| 108
-|-
-| Wall Styles
-| 127
-|}
+| Undocumented list id's    |
+| Resource type   | List ID |
+| Line Types      | 96      |
+| Roof Styles     | 102     |
+| Slab Styles     | 107     |
+| Tiles           | 108     |
+| Wall Styles     | 127     |
 
 ## Examples
 ==== VectorScript ====
